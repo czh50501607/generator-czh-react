@@ -1,8 +1,13 @@
 {
-  "name": "generator-selfvue",
+  "name": "generator-czh-react",
   "version": "1.0.0",
   "main": "./generator/app/index.js",
   "license": "MIT",
+  "author": "freedom_stream",
+  "keywords": [
+    "yo-generator",
+    "yeman-generator"
+  ],
   "dependencies": {
     "yeoman-generator": "^4.12.0"
   }
